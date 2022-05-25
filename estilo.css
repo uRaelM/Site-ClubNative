@@ -1,0 +1,78 @@
+
+:root{
+	--barra-cima: 84px;
+}
+
+/* Classes para a utilização de javaScript */
+.btn0{}
+.btn1{}
+.btn2{}
+.btn3{}
+.btn4{}
+/* Classes para a utilização de javaScript */
+
+
+/* Padding para Pc e Criação de ID para Javascript*/
+.padding-home-topo{padding-top: 9rem;}
+#home-map{}
+.padding-home-baixo{padding-bottom: 3rem;}
+
+#monte-roraima{}
+.padding-monte-cima{padding-top: 6rem;}
+
+.padding-safari-cima{padding-top: 10rem;}
+#safari-amazonico{}
+.padding-safari-baixo{padding-bottom: 6rem;}
+
+.padding-gran-cima{padding-top: 4rem;}
+#gran-sabana{}
+
+.padding-sobre-cima{
+	padding-top: 6rem;
+}
+#sobre{}
+/* Padding para Pc */
+
+
+/* Border para o mapa */
+.bra{
+	border-radius: 12px;
+}
+/* Border para o mapa */ 
+
+.mapa-home{
+	width: 100%;
+	height: auto;
+	padding: 8px;
+	background: #fff;
+	padding-top: var(--barra-cima);
+}
+
+.monte-card{
+	background-color: #292b2c;
+	width: 35%;
+	border-radius: 12px;
+	padding: 10px;
+	margin-top: 9rem;
+	margin-left: 2rem;
+}
+
+.card-safari-amazonico{
+	border-radius: 12px;
+}
+
+#rodape{
+	background-color: #292b2c;
+	height: 230px;
+	width: 100%;
+	text-align: center;
+}
+
+#rodape a{
+	text-decoration: none;
+	color: white;
+}
+
+#rodape a:hover{
+	color: #90ee90;
+}
