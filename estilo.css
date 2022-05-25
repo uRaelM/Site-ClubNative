@@ -63,9 +63,16 @@
 
 #rodape{
 	background-color: #292b2c;
+	color: white;
 	height: 230px;
 	width: 100%;
 	text-align: center;
+	align-items: center;
+}
+
+#rodape p{
+	display: inline;
+	padding-right: 2rem;
 }
 
 #rodape a{
@@ -75,4 +82,9 @@
 
 #rodape a:hover{
 	color: #90ee90;
+}
+
+.div-rodape{
+	width: 90%;
+	margin: auto;
 }
