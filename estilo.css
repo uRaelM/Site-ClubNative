@@ -43,8 +43,7 @@
 .mapa-home{
 	width: 100%;
 	height: auto;
-	padding: 8px;
-	background: #fff;
+	padding: 8px 8px 0 8px;
 	padding-top: var(--barra-cima);
 }
 
