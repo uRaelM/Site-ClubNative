@@ -1,4 +1,3 @@
-
 :root{
 	--barra-cima: 84px;
 }
@@ -37,6 +36,7 @@
 /* Border para o mapa */
 .bra{
 	border-radius: 12px;
+	min-height: 250px;
 }
 /* Border para o mapa */ 
 
